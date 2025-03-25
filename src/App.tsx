@@ -1,4 +1,3 @@
-import "./App.css";
 import { Container, Typography } from "@mui/material";
 import { DataTable } from "./components/DataTable";
 import { AuthForm } from "./components/AuthForm";
